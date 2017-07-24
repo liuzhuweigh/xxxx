@@ -28,5 +28,6 @@
 
 
 1. 通过http://ipschool.ooyyee.com 访问的新用户最多
-2. 通过http://edu.vm.com/mbs/category 访问的新用户停留时间最长
-3. 主要外链途径(http://ipschool.ooyyee.com ，http://edu.vm.com/mbs/category ）的跳出率均高于平均水准
+2. 通过http://edu.vm.com/mbs/category 访问的新用户停留时间最长，但是现在该网站404了
+3. 主要外链途径(http://ipschool.ooyyee.com ，http://edu.vm.com/mbs/category ）的跳出率均高于平均水准，说明这两个途径的流量质量不够高
+4. 
