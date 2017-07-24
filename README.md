@@ -17,6 +17,7 @@
 |     | 汇总                                                                                                        | 117  | 14  | 16   | 50%     | 0:04:09 |
 |     |                                                                                                           |      |     |      |         |         |
 
+
 ## 图片
 
 
@@ -26,4 +27,6 @@
 ## 结论
 
 
-
+1. 通过http://ipschool.ooyyee.com 访问的新用户最多
+2. 通过http://edu.vm.com/mbs/category 访问的新用户停留时间最长
+3. 主要外链途径(http://ipschool.ooyyee.com ，http://edu.vm.com/mbs/category ）的跳出率均高于平均水准
