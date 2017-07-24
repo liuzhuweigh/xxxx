@@ -20,7 +20,7 @@
 ## 图片
 
 
-![图片](http://ww1.sinaimg.cn/large/006oEUd7ly1fhv2t66fnqj30vd07kq3f.jpg)
+![](http://ww1.sinaimg.cn/mw690/006oEUd7ly1fhv2t66fnqj30vd07kq3f.jpg)
 
 
 ## 结论
